@@ -6,7 +6,7 @@
 		<bool name="flags/visible"> True </bool>
 		<bool name="flags/double_sided"> False </bool>
 		<bool name="flags/invert_faces"> False </bool>
-		<bool name="flags/unshaded"> False </bool>
+		<bool name="flags/unshaded"> True </bool>
 		<bool name="flags/on_top"> False </bool>
 		<bool name="flags/lightmap_on_uv2"> True </bool>
 		<bool name="flags/colarray_is_srgb"> True </bool>
