@@ -40,7 +40,7 @@
 				<resource  resource_type="Script" path="res://scenes/main.gd">  </resource>
 				<dictionary  shared="false">
 					<string> "__editor_plugin_screen__" </string>
-					<string> "Script" </string>
+					<string> "3D" </string>
 					<string> "__editor_plugin_states__" </string>
 					<dictionary  shared="false">
 						<string> "2D" </string>
@@ -92,7 +92,7 @@
 							<array  len="4" shared="false">
 								<dictionary  shared="false">
 									<string> "distance" </string>
-									<real> 4.6656 </real>
+									<real> 8.635699 </real>
 									<string> "listener" </string>
 									<bool> True </bool>
 									<string> "pos" </string>
@@ -102,9 +102,9 @@
 									<string> "use_orthogonal" </string>
 									<bool> False </bool>
 									<string> "x_rot" </string>
-									<real> 0.525 </real>
+									<real> 0.5 </real>
 									<string> "y_rot" </string>
-									<real> 0.5125 </real>
+									<real> 1.2375 </real>
 								</dictionary>
 								<dictionary  shared="false">
 									<string> "distance" </string>

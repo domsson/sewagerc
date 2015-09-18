@@ -1,2 +1,11 @@
-::res://::1441967853
+::res://::1442337872
 icon.png::ImageTexture::1441967853::
+::res://meshes::1441969767
+sewer.msh::Mesh::1441969767::mesh<>../../SewageRC/sewer.obj<>a352611feb86cce54025c081ccd851b7<>1441904922
+::res://partials::1441975842
+sewer1.xscn::PackedScene::1441975842::
+::res://scenes::1442338689
+main.gd::GDScript::1442338689::
+main.xscn::PackedScene::1441995989::
+::res://textures::1441969807
+sewer.tex::ImageTexture::1441969807::texture_3d<>../../SewageRC/img/sewer.jpg<>58930655ae1dc473b8e06d9632930462<>0
